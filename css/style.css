@@ -2,6 +2,7 @@
     font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 html{
@@ -98,28 +99,9 @@ h5{
 
 footer{
     font-size: 20px;
-    height: 120px;
+    height: 180px;
     padding: 25px;
     text-align: center;
     background-color: #ffcc00;
     color: #000;
 }
-
-@media screen and (max-width: 600px){
-    .section-container{
-        float: none;
-        width: 100%;
-    }
-
-    .container{
-        float: none;
-        width: 100%;
-    }
-
-    img{
-        float: none;
-    }
-}
-
-
-

@@ -78,6 +78,7 @@ form{
     transition: 0.3s;
     background-color: #000;
     width: 40%;
+    float: left;
 }
   
 .card:hover {
@@ -104,17 +105,19 @@ footer{
     color: #000;
 }
 
-@media(max-width: 700px){
-    body{
-        width: 100%;
-        border-radius: 0;
-        cursor: pointer;
-    }
+@media screen and (max-width: 600px){
     .section-container{
-        flex-basis: 100%;  
+        float: none;
+        width: 100%;
     }
+
+    .container{
+        float: none;
+        width: 100%;
+    }
+
     img{
-        display: none;
+        float: none;
     }
 }
 

@@ -3,7 +3,6 @@
 Hiring Coders Project #2
 
 Create an e-commerce system to register email on the landing page to receive news and promotions. 
- 
 
 # Skills
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

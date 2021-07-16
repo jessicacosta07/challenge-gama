@@ -10,7 +10,7 @@ Create an e-commerce system to register email on the landing page to receive new
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-![image](https://user-images.githubusercontent.com/65916297/125987545-fd5e525d-24c2-470b-9fa5-6908afbfac2c.png)
+![image](https://user-images.githubusercontent.com/65916297/125988209-da851776-ab93-4181-a152-9cdd3b93a455.png)
 
 ![image](https://user-images.githubusercontent.com/65916297/125987600-3abb6af7-359f-4fc5-b647-8d0b68cfb5b3.png)
 

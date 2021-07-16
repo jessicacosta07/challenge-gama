@@ -2,6 +2,16 @@
 
 # Hiring Coders Project #2
 
+![image](https://user-images.githubusercontent.com/65916297/125987545-fd5e525d-24c2-470b-9fa5-6908afbfac2c.png)
+
+![image](https://user-images.githubusercontent.com/65916297/125987600-3abb6af7-359f-4fc5-b647-8d0b68cfb5b3.png)
+
+![image](https://user-images.githubusercontent.com/65916297/125987902-3bacf6b1-5825-4df7-af90-923710c4b5b6.png)
+
+![image](https://user-images.githubusercontent.com/65916297/125987939-c43991ff-1a2f-4a57-921d-e08dda2d6c1e.png)
+
+
+
 Create an e-commerce system to register email on the landing page to receive news and promotions. 
 
 # Skills

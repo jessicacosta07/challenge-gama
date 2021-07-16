@@ -108,13 +108,15 @@ footer{
     body{
         width: 100%;
         border-radius: 0;
+        cursor: pointer;
     }
-    .card{
+    .section-container{
         flex-basis: 100%;  
     }
-    .img{
+    img{
         display: none;
     }
 }
+
 
 

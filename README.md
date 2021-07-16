@@ -1,6 +1,6 @@
 # Desafio #1: Gama Academy
 
-Hiring Coders Project #2
+# Hiring Coders Project #2
 
 Create an e-commerce system to register email on the landing page to receive news and promotions. 
 

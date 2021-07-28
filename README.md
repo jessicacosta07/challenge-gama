@@ -11,6 +11,7 @@ Site: https://black-friday-promocoes.netlify.app/
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+# Pages
 
 ![image](https://user-images.githubusercontent.com/65916297/125988209-da851776-ab93-4181-a152-9cdd3b93a455.png)
 
